@@ -1,0 +1,1 @@
+// AssetTable component placeholder

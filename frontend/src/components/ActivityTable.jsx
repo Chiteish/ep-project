@@ -1,0 +1,1 @@
+// ActivityTable component placeholder
